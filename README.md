@@ -2,7 +2,7 @@
 
 I'm a Software Developer from Brazil (🇧🇷).
 
-In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and to play the guitar (🎸).
+In my free time I like to play (and watch) soccer, to watch movies and series, to read books, and to play the guitar.
 
 The technologies that I'm currently studing/using are HTML, CSS, JavaScript, PostgreSQL, NodeJS, React, and others.
 
