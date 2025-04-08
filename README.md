@@ -2,7 +2,7 @@
 
 I'm a Software Engineer from Brazil 🇧🇷
 
-I specialise in full-stack development, building end-to-end applications. I work primarily with JavaScript/TypeScript technologies like React and Node.js, though I’ve gained experience with diverse stacks while contributing to sectors such as healthcare, banking, startups, and currently at a multinational company. I’m passionate about solving complex problems and driving impactful innovation.
+Full Stack Software Engineer with 7+ years of experience building scalable and high-performance applications using Typescript, React, React Native, Node.js, NestJS, APIs REST, GraphQL, and so on. Strong background in software architecture, data management, and system optimization, backed by a Bachelor's in Computer Science and a Master's in Information Systems. Currently expanding expertise in Cloud and DevOps to bridge the gap between development and infrastructure.
 
 Would you like to find me?
 
